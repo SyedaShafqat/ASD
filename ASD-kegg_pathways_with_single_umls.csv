@@ -1,0 +1,368 @@
+pathway_id,pathway_name,description_tmp,combined_text,UMLS_ID,UMLS_score,UMLS_mapping_method
+hsa01100,Metabolic pathways,,Metabolic pathways.,C1291081,0.9732182621955872,scispacy_best_score
+hsa01200,Carbon metabolism,,Carbon metabolism.,C1158831,0.9135460257530212,scispacy_best_score
+hsa01210,2-Oxocarboxylic acid metabolism,,2-Oxocarboxylic acid metabolism.,C1158839,0.867946207523346,scispacy_best_score
+hsa01212,Fatty acid metabolism,,Fatty acid metabolism.,C0596563,0.9788329601287842,scispacy_best_score
+hsa01230,Biosynthesis of amino acids,,Biosynthesis of amino acids.,C0005572,0.9844212532043457,scispacy_best_score
+hsa01232,Nucleotide metabolism,,Nucleotide metabolism.,C0597108,0.9873310923576355,scispacy_best_score
+hsa01250,Biosynthesis of nucleotide sugars,,Biosynthesis of nucleotide sugars.,C0028630,0.7813910245895386,scispacy_best_score
+hsa01240,Biosynthesis of cofactors,,Biosynthesis of cofactors.,C0005572,0.9844212532043457,scispacy_best_score
+hsa01320,Sulfur cycle,,Sulfur cycle.,C0038774,0.7204445004463196,scispacy_best_score
+hsa00010,Glycolysis / Gluconeogenesis,,Glycolysis / Gluconeogenesis.,C0017715,0.9764606952667236,scispacy_best_score
+hsa00020,Citrate cycle (TCA cycle),,Citrate cycle (TCA cycle).,C0008857,0.7474468946456909,scispacy_best_score
+hsa00030,Pentose phosphate pathway,,Pentose phosphate pathway.,C0030892,0.9777505397796631,scispacy_best_score
+hsa00040,Pentose and glucuronate interconversions,,Pentose and glucuronate interconversions.,C0030894,0.980547308921814,scispacy_best_score
+hsa00051,Fructose and mannose metabolism,,Fructose and mannose metabolism.,C1156467,0.9836267828941345,scispacy_best_score
+hsa00052,Galactose metabolism,,Galactose metabolism.,C1156458,0.9894182682037354,scispacy_best_score
+hsa00053,Ascorbate and aldarate metabolism,,Ascorbate and aldarate metabolism.,C1158329,0.7658804655075073,scispacy_best_score
+hsa00500,Starch and sucrose metabolism,,Starch and sucrose metabolism.,C1157794,0.9715723991394043,scispacy_best_score
+hsa00620,Pyruvate metabolism,,Pyruvate metabolism.,C1158861,0.9693580269813538,scispacy_best_score
+hsa00630,Glyoxylate and dicarboxylate metabolism,,Glyoxylate and dicarboxylate metabolism.,C1819986,0.9845626354217529,scispacy_best_score
+hsa00640,Propanoate metabolism,,Propanoate metabolism.,C3158173,0.9792933464050293,scispacy_best_score
+hsa00650,Butanoate metabolism,,Butanoate metabolism.,C3158173,0.7732663154602051,scispacy_best_score
+hsa00562,Inositol phosphate metabolism,,Inositol phosphate metabolism.,C1512795,0.989909291267395,scispacy_best_score
+hsa00190,Oxidative phosphorylation,,Oxidative phosphorylation.,C0030013,0.9767835736274719,scispacy_best_score
+hsa00910,Nitrogen metabolism,,Nitrogen metabolism.,C0597071,0.9899511337280273,scispacy_best_score
+hsa00920,Sulfur metabolism,,Sulfur metabolism.,C1159409,0.9773811101913452,scispacy_best_score
+hsa00061,Fatty acid biosynthesis,,Fatty acid biosynthesis.,C0596562,0.9773531556129456,scispacy_best_score
+hsa00062,Fatty acid elongation,,Fatty acid elongation.,C1157326,0.965225100517273,scispacy_best_score
+hsa00071,Fatty acid degradation,,Fatty acid degradation.,C1157916,0.9603169560432434,scispacy_best_score
+hsa00100,Steroid biosynthesis,,Steroid biosynthesis.,C0005572,0.9844212532043457,scispacy_best_score
+hsa00120,Primary bile acid biosynthesis,,Primary bile acid biosynthesis.,C0005572,0.9844212532043457,scispacy_best_score
+hsa00140,Steroid hormone biosynthesis,,Steroid hormone biosynthesis.,C0301818,0.9826793670654297,scispacy_best_score
+hsa00561,Glycerolipid metabolism,,Glycerolipid metabolism.,C1158379,0.9907863140106201,scispacy_best_score
+hsa00564,Glycerophospholipid metabolism,,Glycerophospholipid metabolism.,C1158420,0.9920490980148315,scispacy_best_score
+hsa00565,Ether lipid metabolism,,Ether lipid metabolism.,C0598783,0.987626850605011,scispacy_best_score
+hsa00600,Sphingolipid metabolism,,Sphingolipid metabolism.,C1158438,0.9782512187957764,scispacy_best_score
+hsa00590,Arachidonic acid metabolism,,Arachidonic acid metabolism.,C1158360,0.9886347651481628,scispacy_best_score
+hsa00591,Linoleic acid metabolism,,Linoleic acid metabolism.,C1819989,0.9838860034942627,scispacy_best_score
+hsa00592,alpha-Linolenic acid metabolism,,alpha-Linolenic acid metabolism.,C2984233,0.9845206141471863,scispacy_best_score
+hsa01040,Biosynthesis of unsaturated fatty acids,,Biosynthesis of unsaturated fatty acids.,C0015690,0.9726119637489319,scispacy_best_score
+hsa00230,Purine metabolism,,Purine metabolism.,C1621315,0.9810577034950256,scispacy_best_score
+hsa00240,Pyrimidine metabolism,,Pyrimidine metabolism.,C0920641,0.9847705364227295,scispacy_best_score
+hsa00250,"Alanine, aspartate and glutamate metabolism",,"Alanine, aspartate and glutamate metabolism.",C1156811,0.9887945652008057,scispacy_best_score
+hsa00260,"Glycine, serine and threonine metabolism",,"Glycine, serine and threonine metabolism.",C1156802,0.980179488658905,scispacy_best_score
+hsa00270,Cysteine and methionine metabolism,,Cysteine and methionine metabolism.,C1156801,0.9816354513168335,scispacy_best_score
+hsa00280,"Valine, leucine and isoleucine degradation",,"Valine, leucine and isoleucine degradation.",C1156698,0.9649484753608704,scispacy_best_score
+hsa00290,"Valine, leucine and isoleucine biosynthesis",,"Valine, leucine and isoleucine biosynthesis.",C1156615,0.9819443821907043,scispacy_best_score
+hsa00310,Lysine degradation,,Lysine degradation.,C1156685,0.9613828659057617,scispacy_best_score
+hsa00220,Arginine biosynthesis,,Arginine biosynthesis.,C0005572,0.9844212532043457,scispacy_best_score
+hsa00330,Arginine and proline metabolism,,Arginine and proline metabolism.,C1156817,0.9842960238456726,scispacy_best_score
+hsa00340,Histidine metabolism,,Histidine metabolism.,C1156823,0.9874728322029114,scispacy_best_score
+hsa00350,Tyrosine metabolism,,Tyrosine metabolism.,C1156790,0.9841790795326233,scispacy_best_score
+hsa00360,Phenylalanine metabolism,,Phenylalanine metabolism.,C1327004,0.9849160313606262,scispacy_best_score
+hsa00380,Tryptophan metabolism,,Tryptophan metabolism.,C1156787,0.9869989156723022,scispacy_best_score
+hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",,"Phenylalanine, tyrosine and tryptophan biosynthesis.",C1156585,0.9848285913467407,scispacy_best_score
+hsa00410,beta-Alanine metabolism,,beta-Alanine metabolism.,C1156837,0.9823209047317505,scispacy_best_score
+hsa00430,Taurine and hypotaurine metabolism,,Taurine and hypotaurine metabolism.,C0063235,0.9728618860244751,scispacy_best_score
+hsa00440,Phosphonate and phosphinate metabolism,,Phosphonate and phosphinate metabolism.,C1154922,0.8518843650817871,scispacy_best_score
+hsa00450,Selenocompound metabolism,,Selenocompound metabolism.,C1523345,0.8501457571983337,scispacy_best_score
+hsa00470,D-Amino acid metabolism,,D-Amino acid metabolism.,C1156807,0.9723829627037048,scispacy_best_score
+hsa00480,Glutathione metabolism,,Glutathione metabolism.,C1158188,0.9851496815681458,scispacy_best_score
+hsa00520,Amino sugar and nucleotide sugar metabolism,,Amino sugar and nucleotide sugar metabolism.,C0597108,0.8830956816673279,scispacy_best_score
+hsa00541,Biosynthesis of various nucleotide sugars,,Biosynthesis of various nucleotide sugars.,C0028630,0.7813910245895386,scispacy_best_score
+hsa00510,N-Glycan biosynthesis,,N-Glycan biosynthesis.,C0596625,0.9746138453483582,scispacy_best_score
+hsa00513,Various types of N-glycan biosynthesis,,Various types of N-glycan biosynthesis.,C0596625,0.9746138453483582,scispacy_best_score
+hsa00512,Mucin type O-glycan biosynthesis,,Mucin type O-glycan biosynthesis.,C1157190,0.8811327815055847,scispacy_best_score
+hsa00515,Mannose type O-glycan biosynthesis,,Mannose type O-glycan biosynthesis.,C1156338,0.7683676481246948,scispacy_best_score
+hsa00514,Other types of O-glycan biosynthesis,,Other types of O-glycan biosynthesis.,C1157190,0.8811327815055847,scispacy_best_score
+hsa00532,Glycosaminoglycan biosynthesis,,Glycosaminoglycan biosynthesis.,C1156899,0.9867416024208069,scispacy_best_score
+hsa00534,Glycosaminoglycan biosynthesis,,Glycosaminoglycan biosynthesis.,C1156899,0.9867416024208069,scispacy_best_score
+hsa00533,Glycosaminoglycan biosynthesis,,Glycosaminoglycan biosynthesis.,C1156899,0.9867416024208069,scispacy_best_score
+hsa00531,Glycosaminoglycan degradation,,Glycosaminoglycan degradation.,C1156907,0.9769730567932129,scispacy_best_score
+hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis.,C0061688,0.8272625803947449,scispacy_best_score
+hsa00601,Glycosphingolipid biosynthesis,,Glycosphingolipid biosynthesis.,C1157366,0.9842149615287781,scispacy_best_score
+hsa00603,Glycosphingolipid biosynthesis,,Glycosphingolipid biosynthesis.,C1157366,0.9842149615287781,scispacy_best_score
+hsa00604,Glycosphingolipid biosynthesis,,Glycosphingolipid biosynthesis.,C1157366,0.9842149615287781,scispacy_best_score
+hsa00511,Other glycan degradation,,Other glycan degradation.,C1156905,0.8052236437797546,scispacy_best_score
+hsa00730,Thiamine metabolism,,Thiamine metabolism.,C1159439,0.9816151857376099,scispacy_best_score
+hsa00740,Riboflavin metabolism,,Riboflavin metabolism.,C1159440,0.9758793711662292,scispacy_best_score
+hsa00750,Vitamin B6 metabolism,,Vitamin B6 metabolism.,C1327397,0.9620925784111023,scispacy_best_score
+hsa00760,Nicotinate and nicotinamide metabolism,,Nicotinate and nicotinamide metabolism.,C1158201,0.986775279045105,scispacy_best_score
+hsa00770,Pantothenate and CoA biosynthesis,,Pantothenate and CoA biosynthesis.,C1157228,0.9766348004341125,scispacy_best_score
+hsa00780,Biotin metabolism,,Biotin metabolism.,C1158327,0.9810309410095215,scispacy_best_score
+hsa00785,Lipoic acid metabolism,,Lipoic acid metabolism.,C1158197,0.9833472371101379,scispacy_best_score
+hsa00790,Folate biosynthesis,,Folate biosynthesis.,C0005572,0.9844212532043457,scispacy_best_score
+hsa00670,One carbon pool by folate,,One carbon pool by folate.,C0178638,0.9847492575645447,scispacy_best_score
+hsa00830,Retinol metabolism,,Retinol metabolism.,C0025519,0.9888912439346313,scispacy_best_score
+hsa00860,Porphyrin metabolism,,Porphyrin metabolism.,C0597272,0.9851444363594055,scispacy_best_score
+hsa00130,Ubiquinone and other terpenoid-quinone biosynthesis,,Ubiquinone and other terpenoid-quinone biosynthesis.,C1157344,0.7974900007247925,scispacy_best_score
+hsa00900,Terpenoid backbone biosynthesis,,Terpenoid backbone biosynthesis.,C0029433,0.8318349719047546,scispacy_best_score
+hsa00232,Caffeine metabolism,,Caffeine metabolism.,C0025519,0.7370759844779968,scispacy_best_score
+hsa00524,"Neomycin, kanamycin and gentamicin biosynthesis",,"Neomycin, kanamycin and gentamicin biosynthesis.",C0005572,0.9844212532043457,scispacy_best_score
+hsa00980,Metabolism of xenobiotics by cytochrome P450,,Metabolism of xenobiotics by cytochrome P450.,C0010762,0.9759978652000427,scispacy_best_score
+hsa00982,Drug metabolism,,Drug metabolism.,C0683140,0.9865143895149231,scispacy_best_score
+hsa00983,Drug metabolism,,Drug metabolism.,C0683140,0.9865143895149231,scispacy_best_score
+hsa03020,RNA polymerase,,RNA polymerase.,C0035681,0.9887306690216064,scispacy_best_score
+hsa03022,Basal transcription factors,,Basal transcription factors.,C1135650,0.9200213551521301,scispacy_best_score
+hsa03040,Spliceosome,,Spliceosome.,C0162771,0.9690306782722473,scispacy_best_score
+hsa03010,Ribosome,,Ribosome.,C0035553,0.9928096532821655,scispacy_best_score
+hsa00970,Aminoacyl-tRNA biosynthesis,,Aminoacyl-tRNA biosynthesis.,C0035714,0.9784031510353088,scispacy_best_score
+hsa03013,Nucleocytoplasmic transport,,Nucleocytoplasmic transport.,C0872070,0.986596941947937,scispacy_best_score
+hsa03015,mRNA surveillance pathway,,mRNA surveillance pathway.,C1515671,0.8030610084533691,scispacy_best_score
+hsa03008,Ribosome biogenesis in eukaryotes,,Ribosome biogenesis in eukaryotes.,C1156140,0.9832841753959656,scispacy_best_score
+hsa03060,Protein export,,Protein export.,C2245723,0.7723344564437866,scispacy_best_score
+hsa04141,Protein processing in endoplasmic reticulum,,Protein processing in endoplasmic reticulum.,C0014239,0.9847756624221802,scispacy_best_score
+hsa04130,SNARE interactions in vesicular transport,,SNARE interactions in vesicular transport.,C1325417,0.9920258522033691,scispacy_best_score
+hsa04120,Ubiquitin mediated proteolysis,,Ubiquitin mediated proteolysis.,C0597304,0.967528760433197,scispacy_best_score
+hsa04122,Sulfur relay system,,Sulfur relay system.,,0.0,scispacy_best_score
+hsa03050,Proteasome,,Proteasome.,C0208355,0.9731605052947998,scispacy_best_score
+hsa03018,RNA degradation,,RNA degradation.,C1257756,0.9606263637542725,scispacy_best_score
+hsa03030,DNA replication,,DNA replication.,C0598312,0.9601574540138245,scispacy_best_score
+hsa03410,Base excision repair,,Base excision repair.,C1158530,0.9757609367370605,scispacy_best_score
+hsa03420,Nucleotide excision repair,,Nucleotide excision repair.,C0524550,0.9806531667709351,scispacy_best_score
+hsa03430,Mismatch repair,,Mismatch repair.,C1155661,0.9847487807273865,scispacy_best_score
+hsa03440,Homologous recombination,,Homologous recombination.,C0599773,0.9740785360336304,scispacy_best_score
+hsa03450,Non-homologous end-joining,,Non-homologous end-joining.,C1518406,0.8842637538909912,scispacy_best_score
+hsa03460,Fanconi anemia pathway,,Fanconi anemia pathway.,C0015625,0.9752676486968994,scispacy_best_score
+hsa03082,ATP-dependent chromatin remodeling,,ATP-dependent chromatin remodeling.,C5672519,0.9624207019805908,scispacy_best_score
+hsa03083,Polycomb repressive complex,,Polycomb repressive complex.,C0083956,0.989058792591095,scispacy_best_score
+hsa03250,Viral life cycle,,Viral life cycle.,C1160638,0.973726749420166,scispacy_best_score
+hsa03260,Virion,,Virion.,C0042760,0.9666566252708435,scispacy_best_score
+hsa03271,Virion,,Virion.,C0042760,0.9666566252708435,scispacy_best_score
+hsa03264,Virion,,Virion.,C0042760,0.9666566252708435,scispacy_best_score
+hsa03265,Virion,,Virion.,C0042760,0.9666566252708435,scispacy_best_score
+hsa03273,Virion,,Virion.,C0042760,0.9666566252708435,scispacy_best_score
+hsa03272,Virion,,Virion.,C0042760,0.9666566252708435,scispacy_best_score
+hsa03266,Virion,,Virion.,C0042760,0.9666566252708435,scispacy_best_score
+hsa03267,Virion,,Virion.,C0042760,0.9666566252708435,scispacy_best_score
+hsa02010,ABC transporters,,ABC transporters.,C0242738,0.9622047543525696,scispacy_best_score
+hsa04010,MAPK signaling pathway,,MAPK signaling pathway.,C1518102,0.9566978216171265,scispacy_best_score
+hsa04012,ErbB signaling pathway,,ErbB signaling pathway.,C0037080,0.9742857217788696,scispacy_best_score
+hsa04014,Ras signaling pathway,,Ras signaling pathway.,C1514731,0.9774190187454224,scispacy_best_score
+hsa04015,Rap1 signaling pathway,,Rap1 signaling pathway.,C0037083,0.8714277744293213,scispacy_best_score
+hsa04310,Wnt signaling pathway,,Wnt signaling pathway.,C1520113,0.95908522605896,scispacy_best_score
+hsa04330,Notch signaling pathway,,Notch signaling pathway.,C1155452,0.9690709710121155,scispacy_best_score
+hsa04340,Hedgehog signaling pathway,,Hedgehog signaling pathway.,C1155468,0.9591380953788757,scispacy_best_score
+hsa04350,TGF-beta signaling pathway,,TGF-beta signaling pathway.,C1155363,0.8774072527885437,scispacy_best_score
+hsa04390,Hippo signaling pathway,,Hippo signaling pathway.,C3158583,0.9720909595489502,scispacy_best_score
+hsa04392,Hippo signaling pathway,,Hippo signaling pathway.,C3158583,0.9720909595489502,scispacy_best_score
+hsa04370,VEGF signaling pathway,,VEGF signaling pathway.,C2984329,0.9600866436958313,scispacy_best_score
+hsa04371,Apelin signaling pathway,,Apelin signaling pathway.,C2262955,0.8663438558578491,scispacy_best_score
+hsa04630,JAK-STAT signaling pathway,,JAK-STAT signaling pathway.,C2984327,0.9535183906555176,scispacy_best_score
+hsa04064,NF-kappa B signaling pathway,,NF-kappa B signaling pathway.,C0037083,0.7794285416603088,scispacy_best_score
+hsa04668,TNF signaling pathway,,TNF signaling pathway.,C0037080,0.9742857217788696,scispacy_best_score
+hsa04066,HIF-1 signaling pathway,,HIF-1 signaling pathway.,C0037080,0.9742857217788696,scispacy_best_score
+hsa04068,FoxO signaling pathway,,FoxO signaling pathway.,C0037083,0.8714277744293213,scispacy_best_score
+hsa04020,Calcium signaling pathway,,Calcium signaling pathway.,C0037083,0.8126105666160583,scispacy_best_score
+hsa04070,Phosphatidylinositol signaling system,,Phosphatidylinositol signaling system.,C1817666,0.7667797207832336,scispacy_best_score
+hsa04072,Phospholipase D signaling pathway,,Phospholipase D signaling pathway.,C1623170,0.7562965750694275,scispacy_best_score
+hsa04071,Sphingolipid signaling pathway,,Sphingolipid signaling pathway.,C2753772,0.9695218205451965,scispacy_best_score
+hsa04024,cAMP signaling pathway,,cAMP signaling pathway.,C0037083,0.8714277148246765,scispacy_best_score
+hsa04022,cGMP-PKG signaling pathway,,cGMP-PKG signaling pathway.,C0037083,0.7955009937286377,scispacy_best_score
+hsa04151,PI3K-Akt signaling pathway,,PI3K-Akt signaling pathway.,C0037083,0.7955009937286377,scispacy_best_score
+hsa04152,AMPK signaling pathway,,AMPK signaling pathway.,C0037080,0.9742857217788696,scispacy_best_score
+hsa04150,mTOR signaling pathway,,mTOR signaling pathway.,C1621636,0.9074538946151733,scispacy_best_score
+hsa04080,Neuroactive ligand-receptor interaction,,Neuroactive ligand-receptor interaction.,,0.0,scispacy_best_score
+hsa04082,Neuroactive ligand signaling,,Neuroactive ligand signaling.,C0037083,0.9788906574249268,scispacy_best_score
+hsa04081,Hormone signaling,,Hormone signaling.,C1154545,0.7650259137153625,scispacy_best_score
+hsa04060,Cytokine-cytokine receptor interaction,,Cytokine-cytokine receptor interaction.,C0206552,0.8061118125915527,scispacy_best_score
+hsa04061,Viral protein interaction with cytokine and cytokine receptor,,Viral protein interaction with cytokine and cytokine receptor.,C0206552,0.9693627953529358,scispacy_best_score
+hsa04512,ECM-receptor interaction,,ECM-receptor interaction.,C0597357,0.7311392426490784,scispacy_best_score
+hsa04514,Cell adhesion molecules,,Cell adhesion molecules.,C0007578,0.974778950214386,scispacy_best_score
+hsa04144,Endocytosis,,Endocytosis.,C0014139,0.9895230531692505,scispacy_best_score
+hsa04145,Phagosome,,Phagosome.,C0031310,0.9836006164550781,scispacy_best_score
+hsa04142,Lysosome,,Lysosome.,C0024369,0.9872573018074036,scispacy_best_score
+hsa04146,Peroxisome,,Peroxisome.,C0752063,0.9805019497871399,scispacy_best_score
+hsa04140,Autophagy,,Autophagy.,C0004391,0.971451461315155,scispacy_best_score
+hsa04136,Autophagy,,Autophagy.,C0004391,0.971451461315155,scispacy_best_score
+hsa04137,Mitophagy,,Mitophagy.,C1820119,0.9684501886367798,scispacy_best_score
+hsa04148,Efferocytosis,,Efferocytosis.,C1523908,0.9811543822288513,scispacy_best_score
+hsa04110,Cell cycle,,Cell cycle.,C0007586,0.9905704259872437,scispacy_best_score
+hsa04114,Oocyte meiosis,,Oocyte meiosis.,C0025186,0.9488946199417114,scispacy_best_score
+hsa04210,Apoptosis,,Apoptosis.,C0162638,0.9858441352844238,scispacy_best_score
+hsa04215,Apoptosis,,Apoptosis.,C0162638,0.9858441352844238,scispacy_best_score
+hsa04216,Ferroptosis,,Ferroptosis.,C4236737,0.9880935549736023,scispacy_best_score
+hsa04217,Necroptosis,,Necroptosis.,C2610958,0.9869781136512756,scispacy_best_score
+hsa04115,p53 signaling pathway,,p53 signaling pathway.,C2756034,0.9628759026527405,scispacy_best_score
+hsa04218,Cellular senescence,,Cellular senescence.,C0007581,0.9873633980751038,scispacy_best_score
+hsa04510,Focal adhesion,,Focal adhesion.,C0887870,0.9466614127159119,scispacy_best_score
+hsa04520,Adherens junction,,Adherens junction.,C0230613,0.9630226492881775,scispacy_best_score
+hsa04530,Tight junction,,Tight junction.,C0242358,0.9645081162452698,scispacy_best_score
+hsa04540,Gap junction,,Gap junction.,C0206117,0.9490122199058533,scispacy_best_score
+hsa04550,Signaling pathways regulating pluripotency of stem cells,,Signaling pathways regulating pluripotency of stem cells.,C0037080,0.973293662071228,scispacy_best_score
+hsa04814,Motor proteins,,Motor proteins.,C0033684,0.7748352885246277,scispacy_best_score
+hsa04820,Cytoskeleton in muscle cells,,Cytoskeleton in muscle cells.,C0596981,0.9895250797271729,scispacy_best_score
+hsa04810,Regulation of actin cytoskeleton,,Regulation of actin cytoskeleton.,C0025979,0.9636121988296509,scispacy_best_score
+hsa04640,Hematopoietic cell lineage,,Hematopoietic cell lineage.,C2323499,0.9763720631599426,scispacy_best_score
+hsa04610,Complement and coagulation cascades,,Complement and coagulation cascades.,C0005778,0.7172122597694397,scispacy_best_score
+hsa04611,Platelet activation,,Platelet activation.,C0032173,0.978221595287323,scispacy_best_score
+hsa04613,Neutrophil extracellular trap formation,,Neutrophil extracellular trap formation.,C0027950,0.9871053695678711,scispacy_best_score
+hsa04620,Toll-like receptor signaling pathway,,Toll-like receptor signaling pathway.,C1817393,0.9755854606628418,scispacy_best_score
+hsa04621,NOD-like receptor signaling pathway,,NOD-like receptor signaling pathway.,C2984315,0.9676849246025085,scispacy_best_score
+hsa04622,RIG-I-like receptor signaling pathway,,RIG-I-like receptor signaling pathway.,C2984316,0.9532839059829712,scispacy_best_score
+hsa04623,Cytosolic DNA-sensing pathway,,Cytosolic DNA-sensing pathway.,C1383501,0.9915540814399719,scispacy_best_score
+hsa04625,C-type lectin receptor signaling pathway,,C-type lectin receptor signaling pathway.,C1817391,0.8755971789360046,scispacy_best_score
+hsa04650,Natural killer cell mediated cytotoxicity,,Natural killer cell mediated cytotoxicity.,C0022688,0.9749916791915894,scispacy_best_score
+hsa04612,Antigen processing and presentation,,Antigen processing and presentation.,C0206430,0.9850715398788452,scispacy_best_score
+hsa04660,T cell receptor signaling pathway,,T cell receptor signaling pathway.,C1325934,0.9753962755203247,scispacy_best_score
+hsa04658,Th1 and Th2 cell differentiation,,Th1 and Th2 cell differentiation.,C0007589,0.9706478714942932,scispacy_best_score
+hsa04659,Th17 cell differentiation,,Th17 cell differentiation.,C0007589,0.9706478714942932,scispacy_best_score
+hsa04657,IL-17 signaling pathway,,IL-17 signaling pathway.,C0037080,0.9742857217788696,scispacy_best_score
+hsa04662,B cell receptor signaling pathway,,B cell receptor signaling pathway.,C1325924,0.9783722162246704,scispacy_best_score
+hsa04664,Fc epsilon RI signaling pathway,,Fc epsilon RI signaling pathway.,C0037083,0.9185653328895569,scispacy_best_score
+hsa04666,Fc gamma R-mediated phagocytosis,,Fc gamma R-mediated phagocytosis.,C3271802,0.7347133755683899,scispacy_best_score
+hsa04670,Leukocyte transendothelial migration,,Leukocyte transendothelial migration.,C1155267,0.9673430323600769,scispacy_best_score
+hsa04672,Intestinal immune network for IgA production,,Intestinal immune network for IgA production.,C1513822,0.7225987315177917,scispacy_best_score
+hsa04062,Chemokine signaling pathway,,Chemokine signaling pathway.,C2984298,0.9698107838630676,scispacy_best_score
+hsa04911,Insulin secretion,,Insulin secretion.,C1256369,0.9666810631752014,scispacy_best_score
+hsa04910,Insulin signaling pathway,,Insulin signaling pathway.,C1512804,0.9727720618247986,scispacy_best_score
+hsa04922,Glucagon signaling pathway,,Glucagon signaling pathway.,,0.0,scispacy_best_score
+hsa04923,Regulation of lipolysis in adipocytes,,Regulation of lipolysis in adipocytes.,C0206131,0.9846466183662415,scispacy_best_score
+hsa04920,Adipocytokine signaling pathway,,Adipocytokine signaling pathway.,C2246617,0.9726856350898743,scispacy_best_score
+hsa03320,PPAR signaling pathway,,PPAR signaling pathway.,C2752275,0.969348669052124,scispacy_best_score
+hsa04929,GnRH secretion,,GnRH secretion.,C0036536,0.9644787311553955,scispacy_best_score
+hsa04912,GnRH signaling pathway,,GnRH signaling pathway.,C0037080,0.9742857217788696,scispacy_best_score
+hsa04913,Ovarian steroidogenesis,,Ovarian steroidogenesis.,C0597513,0.8128048181533813,scispacy_best_score
+hsa04915,Estrogen signaling pathway,,Estrogen signaling pathway.,C0037083,0.7955009937286377,scispacy_best_score
+hsa04914,Progesterone-mediated oocyte maturation,,Progesterone-mediated oocyte maturation.,C0678723,0.9798412919044495,scispacy_best_score
+hsa04917,Prolactin signaling pathway,,Prolactin signaling pathway.,C3538949,0.9699581861495972,scispacy_best_score
+hsa04921,Oxytocin signaling pathway,,Oxytocin signaling pathway.,C0037080,0.9742857217788696,scispacy_best_score
+hsa04926,Relaxin signaling pathway,,Relaxin signaling pathway.,C0037083,0.8126105070114136,scispacy_best_score
+hsa04935,"Growth hormone synthesis, secretion and action",,"Growth hormone synthesis, secretion and action.",C0037663,0.9764378666877747,scispacy_best_score
+hsa04918,Thyroid hormone synthesis,,Thyroid hormone synthesis.,C0040135,0.9853694438934326,scispacy_best_score
+hsa04919,Thyroid hormone signaling pathway,,Thyroid hormone signaling pathway.,C0037080,0.9742857217788696,scispacy_best_score
+hsa04928,"Parathyroid hormone synthesis, secretion and action",,"Parathyroid hormone synthesis, secretion and action.",C0020063,0.9869837164878845,scispacy_best_score
+hsa04916,Melanogenesis,,Melanogenesis.,C1513094,0.9866088032722473,scispacy_best_score
+hsa04924,Renin secretion,,Renin secretion.,C0036536,0.9644787311553955,scispacy_best_score
+hsa04614,Renin-angiotensin system,,Renin-angiotensin system.,C0035096,0.9791030287742615,scispacy_best_score
+hsa04925,Aldosterone synthesis and secretion,,Aldosterone synthesis and secretion.,C0002006,0.9568771123886108,scispacy_best_score
+hsa04927,Cortisol synthesis and secretion,,Cortisol synthesis and secretion.,C2612768,0.9913691878318787,scispacy_best_score
+hsa04260,Cardiac muscle contraction,,Cardiac muscle contraction.,C1516294,0.9796266555786133,scispacy_best_score
+hsa04261,Adrenergic signaling in cardiomyocytes,,Adrenergic signaling in cardiomyocytes.,C3156085,0.7150399088859558,scispacy_best_score
+hsa04270,Vascular smooth muscle contraction,,Vascular smooth muscle contraction.,C2265839,0.9734280109405518,scispacy_best_score
+hsa04970,Salivary secretion,,Salivary secretion.,C0036104,0.9757883548736572,scispacy_best_score
+hsa04971,Gastric acid secretion,,Gastric acid secretion.,C0232552,0.9796597361564636,scispacy_best_score
+hsa04972,Pancreatic secretion,,Pancreatic secretion.,C0030296,0.975845456123352,scispacy_best_score
+hsa04976,Bile secretion,,Bile secretion.,C0232754,0.9702265858650208,scispacy_best_score
+hsa04973,Carbohydrate digestion and absorption,,Carbohydrate digestion and absorption.,C0007004,0.7267072200775146,scispacy_best_score
+hsa04974,Protein digestion and absorption,,Protein digestion and absorption.,C1523943,0.9625523686408997,scispacy_best_score
+hsa04975,Fat digestion and absorption,,Fat digestion and absorption.,C2347023,0.9399321675300598,scispacy_best_score
+hsa04979,Cholesterol metabolism,,Cholesterol metabolism.,C1156530,0.989743173122406,scispacy_best_score
+hsa04977,Vitamin digestion and absorption,,Vitamin digestion and absorption.,C0012238,0.7162240743637085,scispacy_best_score
+hsa04981,Folate transport and metabolism,,Folate transport and metabolism.,C0025519,0.9888912439346313,scispacy_best_score
+hsa04980,Cobalamin transport and metabolism,,Cobalamin transport and metabolism.,C0025519,0.9888912439346313,scispacy_best_score
+hsa04978,Mineral absorption,,Mineral absorption.,C2347023,0.7208951115608215,scispacy_best_score
+hsa04962,Vasopressin-regulated water reabsorption,,Vasopressin-regulated water reabsorption.,,0.0,scispacy_best_score
+hsa04960,Aldosterone-regulated sodium reabsorption,,Aldosterone-regulated sodium reabsorption.,,0.0,scispacy_best_score
+hsa04961,Endocrine and other factor-regulated calcium reabsorption,,Endocrine and other factor-regulated calcium reabsorption.,C0014136,0.976462185382843,scispacy_best_score
+hsa04964,Proximal tubule bicarbonate reclamation,,Proximal tubule bicarbonate reclamation.,C0022677,0.9719719290733337,scispacy_best_score
+hsa04966,Collecting duct acid secretion,,Collecting duct acid secretion.,C0001128,0.7062922120094299,scispacy_best_score
+hsa04724,Glutamatergic synapse,,Glutamatergic synapse.,C4328872,0.9780734181404114,scispacy_best_score
+hsa04727,GABAergic synapse,,GABAergic synapse.,C4328868,0.7274147868156433,scispacy_best_score
+hsa04725,Cholinergic synapse,,Cholinergic synapse.,C0242893,0.9902895092964172,scispacy_best_score
+hsa04728,Dopaminergic synapse,,Dopaminergic synapse.,C4328937,0.9773266911506653,scispacy_best_score
+hsa04726,Serotonergic synapse,,Serotonergic synapse.,C4690311,0.9805262684822083,scispacy_best_score
+hsa04720,Long-term potentiation,,Long-term potentiation.,C0279023,0.9677777290344238,scispacy_best_score
+hsa04730,Long-term depression,,Long-term depression.,C0011570,0.9696047902107239,scispacy_best_score
+hsa04723,Retrograde endocannabinoid signaling,,Retrograde endocannabinoid signaling.,C3156138,0.8372299075126648,scispacy_best_score
+hsa04721,Synaptic vesicle cycle,,Synaptic vesicle cycle.,C0682685,0.8032452464103699,scispacy_best_score
+hsa04722,Neurotrophin signaling pathway,,Neurotrophin signaling pathway.,C2984256,0.9785104393959045,scispacy_best_score
+hsa04744,Phototransduction,,Phototransduction.,C0376451,0.9524785280227661,scispacy_best_score
+hsa04740,Olfactory transduction,,Olfactory transduction.,C1160185,0.706745445728302,scispacy_best_score
+hsa04742,Taste transduction,,Taste transduction.,C1160185,0.785503625869751,scispacy_best_score
+hsa04750,Inflammatory mediator regulation of TRP channels,,Inflammatory mediator regulation of TRP channels.,C0243042,0.7989616990089417,scispacy_best_score
+hsa04360,Axon guidance,,Axon guidance.,C2984268,0.9663011431694031,scispacy_best_score
+hsa04380,Osteoclast differentiation,,Osteoclast differentiation.,C0007589,0.9643165469169617,scispacy_best_score
+hsa04382,Cornified envelope formation,,Cornified envelope formation.,C3894722,0.9676291346549988,scispacy_best_score
+hsa04211,Longevity regulating pathway,,Longevity regulating pathway.,,0.0,scispacy_best_score
+hsa04213,Longevity regulating pathway,,Longevity regulating pathway.,,0.0,scispacy_best_score
+hsa04710,Circadian rhythm,,Circadian rhythm.,C0008810,0.9812514781951904,scispacy_best_score
+hsa04713,Circadian entrainment,,Circadian entrainment.,C0008810,0.8285465836524963,scispacy_best_score
+hsa04714,Thermogenesis,,Thermogenesis.,C0018841,0.984782338142395,scispacy_best_score
+hsa05200,Pathways in cancer,,Pathways in cancer.,C1704259,0.9816257953643799,scispacy_best_score
+hsa05202,Transcriptional misregulation in cancer,,Transcriptional misregulation in cancer.,C0040649,0.9682933688163757,scispacy_best_score
+hsa05206,MicroRNAs in cancer,,MicroRNAs in cancer.,C1101610,0.9896718263626099,scispacy_best_score
+hsa05205,Proteoglycans in cancer,,Proteoglycans in cancer.,C0033692,0.9632309675216675,scispacy_best_score
+hsa05204,Chemical carcinogenesis,,Chemical carcinogenesis.,C0596321,0.9848692417144775,scispacy_best_score
+hsa05207,Chemical carcinogenesis,,Chemical carcinogenesis.,C0596321,0.9848692417144775,scispacy_best_score
+hsa05208,Chemical carcinogenesis,,Chemical carcinogenesis.,C0596321,0.9848692417144775,scispacy_best_score
+hsa05203,Viral carcinogenesis,,Viral carcinogenesis.,C0597645,0.9844970703125,scispacy_best_score
+hsa05230,Central carbon metabolism in cancer,,Central carbon metabolism in cancer.,C1158831,0.7619501352310181,scispacy_best_score
+hsa05231,Choline metabolism in cancer,,Choline metabolism in cancer.,C1156927,0.9890175461769104,scispacy_best_score
+hsa05235,PD-L1 expression and PD-1 checkpoint pathway in cancer,,PD-L1 expression and PD-1 checkpoint pathway in cancer.,C1155874,0.7236654758453369,scispacy_best_score
+hsa05210,Colorectal cancer,,Colorectal cancer.,C0009402,0.9869279861450195,scispacy_best_score
+hsa05212,Pancreatic cancer,,Pancreatic cancer.,C0235974,0.9861518740653992,scispacy_best_score
+hsa05225,Hepatocellular carcinoma,,Hepatocellular carcinoma.,C2239176,0.9887154698371887,scispacy_best_score
+hsa05226,Gastric cancer,,Gastric cancer.,C0024623,0.9910800457000732,scispacy_best_score
+hsa05214,Glioma,,Glioma.,C0017638,0.9843782782554626,scispacy_best_score
+hsa05216,Thyroid cancer,,Thyroid cancer.,C0007115,0.9859957098960876,scispacy_best_score
+hsa05221,Acute myeloid leukemia,,Acute myeloid leukemia.,C0023467,0.9770968556404114,scispacy_best_score
+hsa05220,Chronic myeloid leukemia,,Chronic myeloid leukemia.,C0023473,0.9767453670501709,scispacy_best_score
+hsa05217,Basal cell carcinoma,,Basal cell carcinoma.,C0007117,0.9839929938316345,scispacy_best_score
+hsa05218,Melanoma,,Melanoma.,C0025202,0.9899237751960754,scispacy_best_score
+hsa05211,Renal cell carcinoma,,Renal cell carcinoma.,C0007134,0.9872101545333862,scispacy_best_score
+hsa05219,Bladder cancer,,Bladder cancer.,C0005684,0.969292402267456,scispacy_best_score
+hsa05215,Prostate cancer,,Prostate cancer.,C0376358,0.9910537004470825,scispacy_best_score
+hsa05213,Endometrial cancer,,Endometrial cancer.,C0007103,0.9905624985694885,scispacy_best_score
+hsa05224,Breast cancer,,Breast cancer.,C0006142,0.9908878207206726,scispacy_best_score
+hsa05222,Small cell lung cancer,,Small cell lung cancer.,C0262584,0.838288426399231,scispacy_best_score
+hsa05223,Non-small cell lung cancer,,Non-small cell lung cancer.,C0007131,0.9687209129333496,scispacy_best_score
+hsa05166,Human T-cell leukemia virus 1 infection,,Human T-cell leukemia virus 1 infection.,C0020094,0.7939899563789368,scispacy_best_score
+hsa05170,Human immunodeficiency virus 1 infection,,Human immunodeficiency virus 1 infection.,C0276500,0.9811710119247437,scispacy_best_score
+hsa05161,Hepatitis B,,Hepatitis B.,C0019158,0.8899069428443909,scispacy_best_score
+hsa05160,Hepatitis C,,Hepatitis C.,C0019158,0.8899069428443909,scispacy_best_score
+hsa05171,Coronavirus disease,,Coronavirus disease.,C5203670,0.8840354084968567,scispacy_best_score
+hsa05164,Influenza A,,Influenza A.,C0021400,0.8885748982429504,scispacy_best_score
+hsa05162,Measles,,Measles.,C0025007,0.9426764249801636,scispacy_best_score
+hsa05168,Herpes simplex virus 1 infection,,Herpes simplex virus 1 infection.,C0019348,0.9543876051902771,scispacy_best_score
+hsa05163,Human cytomegalovirus infection,,Human cytomegalovirus infection.,C0010823,0.883490264415741,scispacy_best_score
+hsa05167,Kaposi sarcoma-associated herpesvirus infection,,Kaposi sarcoma-associated herpesvirus infection.,C0376526,0.8680238127708435,scispacy_best_score
+hsa05169,Epstein-Barr virus infection,,Epstein-Barr virus infection.,C0149678,0.9507981538772583,scispacy_best_score
+hsa05165,Human papillomavirus infection,,Human papillomavirus infection.,C0343641,0.9682168364524841,scispacy_best_score
+hsa05110,Vibrio cholerae infection,,Vibrio cholerae infection.,C0008354,0.9724916815757751,scispacy_best_score
+hsa05120,Epithelial cell signaling in Helicobacter pylori infection,,Epithelial cell signaling in Helicobacter pylori infection.,C0850666,0.9704588651657104,scispacy_best_score
+hsa05130,Pathogenic Escherichia coli infection,,Pathogenic Escherichia coli infection.,C0014836,0.973621666431427,scispacy_best_score
+hsa05132,Salmonella infection,,Salmonella infection.,C0036117,0.9758048057556152,scispacy_best_score
+hsa05131,Shigellosis,,Shigellosis.,C0013371,0.9820733070373535,scispacy_best_score
+hsa05135,Yersinia infection,,Yersinia infection.,C0043407,0.9618536829948425,scispacy_best_score
+hsa05133,Pertussis,,Pertussis.,C0031237,0.969104528427124,scispacy_best_score
+hsa05134,Legionellosis,,Legionellosis.,C0023240,0.9799297451972961,scispacy_best_score
+hsa05150,Staphylococcus aureus infection,,Staphylococcus aureus infection.,C1318973,0.965631902217865,scispacy_best_score
+hsa05152,Tuberculosis,,Tuberculosis.,C0041296,0.9882162809371948,scispacy_best_score
+hsa05100,Bacterial invasion of epithelial cells,,Bacterial invasion of epithelial cells.,C0014597,0.9835145473480225,scispacy_best_score
+hsa05146,Amoebiasis,,Amoebiasis.,C0002438,0.9734756350517273,scispacy_best_score
+hsa05144,Malaria,,Malaria.,C0024530,0.9963779449462891,scispacy_best_score
+hsa05145,Toxoplasmosis,,Toxoplasmosis.,C0040558,0.974433183670044,scispacy_best_score
+hsa05140,Leishmaniasis,,Leishmaniasis.,C0023281,0.9664987921714783,scispacy_best_score
+hsa05142,Chagas disease,,Chagas disease.,C0041234,0.9858316779136658,scispacy_best_score
+hsa05143,African trypanosomiasis,,African trypanosomiasis.,C0041228,0.9797780513763428,scispacy_best_score
+hsa05310,Asthma,,Asthma.,C0004096,0.970723569393158,scispacy_best_score
+hsa05322,Systemic lupus erythematosus,,Systemic lupus erythematosus.,C0024141,0.9638179540634155,scispacy_best_score
+hsa05323,Rheumatoid arthritis,,Rheumatoid arthritis.,C0003873,0.9790905117988586,scispacy_best_score
+hsa05320,Autoimmune thyroid disease,,Autoimmune thyroid disease.,C0178468,0.978166937828064,scispacy_best_score
+hsa05321,Inflammatory bowel disease,,Inflammatory bowel disease.,C0021390,0.9786965250968933,scispacy_best_score
+hsa05330,Allograft rejection,,Allograft rejection.,C3898833,0.791313648223877,scispacy_best_score
+hsa05332,Graft-versus-host disease,,Graft-versus-host disease.,C0018133,0.948434054851532,scispacy_best_score
+hsa05340,Primary immunodeficiency,,Primary immunodeficiency.,C0398686,0.9917218089103699,scispacy_best_score
+hsa05010,Alzheimer disease,,Alzheimer disease.,C0002395,0.9341862797737122,scispacy_best_score
+hsa05012,Parkinson disease,,Parkinson disease.,C0030567,0.9666261076927185,scispacy_best_score
+hsa05014,Amyotrophic lateral sclerosis,,Amyotrophic lateral sclerosis.,C0002736,0.972338080406189,scispacy_best_score
+hsa05016,Huntington disease,,Huntington disease.,C0020179,0.9512561559677124,scispacy_best_score
+hsa05017,Spinocerebellar ataxia,,Spinocerebellar ataxia.,C0087012,0.9743784070014954,scispacy_best_score
+hsa05020,Prion disease,,Prion disease.,C0162534,0.9767230153083801,scispacy_best_score
+hsa05022,Pathways of neurodegeneration,,Pathways of neurodegeneration.,C0027746,0.964983344078064,scispacy_best_score
+hsa05030,Cocaine addiction,,Cocaine addiction.,C0600427,0.951047956943512,scispacy_best_score
+hsa05031,Amphetamine addiction,,Amphetamine addiction.,C0236804,0.9646731019020081,scispacy_best_score
+hsa05032,Morphine addiction,,Morphine addiction.,C0085281,0.9408780932426453,scispacy_best_score
+hsa05033,Nicotine addiction,,Nicotine addiction.,C0085281,0.9408780932426453,scispacy_best_score
+hsa05034,Alcoholism,,Alcoholism.,C0001973,0.988982081413269,scispacy_best_score
+hsa05417,Lipid and atherosclerosis,,Lipid and atherosclerosis.,C0003850,0.9951414465904236,scispacy_best_score
+hsa05418,Fluid shear stress and atherosclerosis,,Fluid shear stress and atherosclerosis.,C1171318,0.818509578704834,scispacy_best_score
+hsa05410,Hypertrophic cardiomyopathy,,Hypertrophic cardiomyopathy.,C0007194,0.9820762276649475,scispacy_best_score
+hsa05412,Arrhythmogenic right ventricular cardiomyopathy,,Arrhythmogenic right ventricular cardiomyopathy.,C0349788,0.9759802222251892,scispacy_best_score
+hsa05414,Dilated cardiomyopathy,,Dilated cardiomyopathy.,C0007193,0.9803040027618408,scispacy_best_score
+hsa05415,Diabetic cardiomyopathy,,Diabetic cardiomyopathy.,C0853897,0.9795587658882141,scispacy_best_score
+hsa05416,Viral myocarditis,,Viral myocarditis.,C0276138,0.9740703105926514,scispacy_best_score
+hsa04930,Type II diabetes mellitus,,Type II diabetes mellitus.,C0011860,0.9810224771499634,scispacy_best_score
+hsa04940,Type I diabetes mellitus,,Type I diabetes mellitus.,C0011854,0.9797846674919128,scispacy_best_score
+hsa04950,Maturity onset diabetes of the young,,Maturity onset diabetes of the young.,C0205286,0.9966276288032532,scispacy_best_score
+hsa04936,Alcoholic liver disease,,Alcoholic liver disease.,C0023896,0.9780075550079346,scispacy_best_score
+hsa04932,Non-alcoholic fatty liver disease,,Non-alcoholic fatty liver disease.,C0400966,0.9748370051383972,scispacy_best_score
+hsa04931,Insulin resistance,,Insulin resistance.,C0021655,0.9827665686607361,scispacy_best_score
+hsa04933,AGE-RAGE signaling pathway in diabetic complications,,AGE-RAGE signaling pathway in diabetic complications.,C0037083,0.7642926573753357,scispacy_best_score
+hsa04934,Cushing syndrome,,Cushing syndrome.,C0010481,0.979058563709259,scispacy_best_score
+hsa01521,EGFR tyrosine kinase inhibitor resistance,,EGFR tyrosine kinase inhibitor resistance.,C0033681,0.8651549220085144,scispacy_best_score
+hsa01524,Platinum drug resistance,,Platinum drug resistance.,C0013203,0.7851064205169678,scispacy_best_score
+hsa01523,Antifolate resistance,,Antifolate resistance.,C1514892,0.7041072845458984,scispacy_best_score
+hsa01522,Endocrine resistance,,Endocrine resistance.,C1514892,0.7223988175392151,scispacy_best_score
